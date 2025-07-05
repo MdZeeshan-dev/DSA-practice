@@ -1,7 +1,7 @@
 # 📘 DSA-Practice
 
 This repository contains my daily DSA problem solutions using C++.  
-Target: 350+ problems ✅
+Target: 355+ problems ✅
 
 ##  Start Date
 25 june, 2025
