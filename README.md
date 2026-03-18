@@ -1,4 +1,4 @@
-#  DSA-Practice
+# DSA-Practice
 
 This repository contains my daily DSA problem solutions using java.  
 Target: 355+ problems 
